@@ -1,0 +1,4 @@
+{
+    "diffEditor.wordWrap": "inherit",
+    "editor.minimap.maxColumn": 30
+}
